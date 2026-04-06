@@ -181,6 +181,4 @@ mapa()
 
 ---
 
-## Licença
 
-Licença estilo MIT.
